@@ -1,3 +1,15 @@
+> **Note about this fork**
+> This is a project I worked on with [@RockRar484](https://github.com/RockRar484).
+> I contributed to the JOSAA scraping pipeline using BeautifulSoup and Selenium and 
+> the Next.js frontend
+> The original repository lives on my collaborator's account because I didn't
+> have a GitHub account during development. I forked it here to showcase it
+> on my profile.
+>
+> **Original repo:** https://github.com/RockRar484/GuideU
+
+---
+
 # GuideU
 
 GuideU is a web application designed to explore the JOSAA (Joint Seat Allocation Authority) seat allotment statistics up to 2023. It extracts data from the JOSAA website for the years 2016 to 2022 and 2023, allowing users to gain interesting insights from the data through visualization tools like charts and tables.
