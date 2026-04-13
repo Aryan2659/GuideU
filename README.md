@@ -1,14 +1,4 @@
-> **Note about this fork**
-> This is a project I worked on with [@RockRar484](https://github.com/RockRar484).
-> I contributed to the JOSAA scraping pipeline using BeautifulSoup and Selenium and 
-> the Next.js frontend
-> The original repository lives on my collaborator's account because I didn't
-> have a GitHub account during development. I forked it here to showcase it
-> on my profile.
->
-> **Original repo:** https://github.com/RockRar484/GuideU
 
----
 
 # GuideU
 
